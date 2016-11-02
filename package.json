@@ -1,0 +1,24 @@
+{
+  "name": "improved-winner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shavit/improved-winner.git"
+  },
+  "keywords": [
+    "movies",
+    "subtitles",
+    "search"
+  ],
+  "author": "Shavit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shavit/improved-winner/issues"
+  },
+  "homepage": "https://github.com/shavit/improved-winner#readme"
+}
