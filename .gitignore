@@ -2,3 +2,4 @@
 .profile
 tmp
 node_modules
+*.log
