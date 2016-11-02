@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shavit/improved-winner/issues"
   },
-  "homepage": "https://github.com/shavit/improved-winner#readme"
+  "homepage": "https://github.com/shavit/improved-winner#readme",
+  "dependencies": {
+    "x-ray": "^2.3.1"
+  }
 }
